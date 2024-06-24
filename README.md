@@ -1,10 +1,4 @@
-
-<p>I am a front-end developer with two years of experience from 2021, possessing a wide range of development skills. </p>
-<p>I enjoy exploring new things and investigating the underlying principles behind various subjects. </p>
-<p>The skills I am currently learning and engaging with include:</p>
-<p>HTML, CSS, JavaScript, TypeScript.</p>
-<p>Nodejs, Python, Java, C/C++</p>
-<p>From top to bottom, the level of mastery decreases in order.</p>
+Looking for something more valuable.
 ------------------------------------------------------------------
 <br>
 <br>
